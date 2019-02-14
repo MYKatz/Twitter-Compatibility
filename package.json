@@ -1,0 +1,16 @@
+{
+  "name": "twittertest",
+  "version": "1.0.0",
+  "description": "Twitter compatibility tester",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "twitter": "^1.7.1",
+    "watson-developer-cloud": "^3.12.0"
+  }
+}
